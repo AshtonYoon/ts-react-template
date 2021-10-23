@@ -6,6 +6,9 @@
 - styled-components
 - eslint
 - prettier
+
+## State Management Library
+
 - jotai
 
 ## ESLint rules
