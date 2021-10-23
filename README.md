@@ -1,3 +1,30 @@
+# Generated with ts-react-template
+
+## installed packages
+
+- typescript
+- styled-components
+- eslint
+- prettier
+- jotai
+
+## ESLint rules
+
+- airbnb
+- airbnb-typescript
+- plugin:react/recommended
+- plugin:jsx-a11y/recommended
+- plugin:import/errors
+- plugin:import/warnings
+- plugin:@typescript-eslint/recommended
+- plugin:prettier/recommended
+
+<br>
+
+---
+
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
