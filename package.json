@@ -2,15 +2,22 @@
   "name": "your-app-name-here",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
-    "@testing-library/jest-dom": "^5.11.4",
-    "@testing-library/react": "^11.1.0",
-    "@testing-library/user-event": "^12.1.10",
+  "devDependencies": {
+    "@babel/core": "latest",
+    "@babel/preset-env": "latest",
+    "@types/babel__core": "^7",
+    "@types/babel__preset-env": "^7",
     "@types/jest": "^26.0.15",
     "@types/node": "^12.0.0",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
     "@types/styled-components": "^5.1.15",
+    "babel-loader": "latest"
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
     "@typescript-eslint/eslint-plugin": "^5.1.0",
     "@typescript-eslint/parser": "^5.1.0",
     "eslint": "^8.0.1",
@@ -55,5 +62,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "cacheDirectories": [
+    "client/node_modules"
+  ],
+  "workspaces": [
+    "client"
+  ],
+  "packageManager": "yarn@3.2.0"
 }
