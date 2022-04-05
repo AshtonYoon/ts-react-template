@@ -59,8 +59,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-react-hooks", "virtual:bd1a5ffd325991a565fab1fd9cf9c4395b84b104eab34a742ae639fa76ad83ed55b355b47c3dc9ce3181fbe43746a020558666c2343898766e641e13af2b9f07#npm:4.3.0"],\
             ["jotai", "virtual:bd1a5ffd325991a565fab1fd9cf9c4395b84b104eab34a742ae639fa76ad83ed55b355b47c3dc9ce3181fbe43746a020558666c2343898766e641e13af2b9f07#npm:1.6.1"],\
             ["prettier", "npm:2.5.1"],\
-            ["react", "npm:17.0.2"],\
-            ["react-dom", "virtual:bd1a5ffd325991a565fab1fd9cf9c4395b84b104eab34a742ae639fa76ad83ed55b355b47c3dc9ce3181fbe43746a020558666c2343898766e641e13af2b9f07#npm:17.0.2"],\
+            ["react", "npm:18.0.0"],\
+            ["react-dom", "virtual:bd1a5ffd325991a565fab1fd9cf9c4395b84b104eab34a742ae639fa76ad83ed55b355b47c3dc9ce3181fbe43746a020558666c2343898766e641e13af2b9f07#npm:18.0.0"],\
             ["react-scripts", "virtual:bd1a5ffd325991a565fab1fd9cf9c4395b84b104eab34a742ae639fa76ad83ed55b355b47c3dc9ce3181fbe43746a020558666c2343898766e641e13af2b9f07#npm:4.0.3"],\
             ["styled-components", "virtual:bd1a5ffd325991a565fab1fd9cf9c4395b84b104eab34a742ae639fa76ad83ed55b355b47c3dc9ce3181fbe43746a020558666c2343898766e641e13af2b9f07#npm:5.3.3"],\
             ["styled-normalize", "virtual:bd1a5ffd325991a565fab1fd9cf9c4395b84b104eab34a742ae639fa76ad83ed55b355b47c3dc9ce3181fbe43746a020558666c2343898766e641e13af2b9f07#npm:8.0.7"],\
@@ -4783,8 +4783,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@testing-library/dom", "npm:7.31.2"],\
             ["@types/react", "npm:17.0.40"],\
             ["@types/react-dom", "npm:17.0.13"],\
-            ["react", "npm:17.0.2"],\
-            ["react-dom", "virtual:bd1a5ffd325991a565fab1fd9cf9c4395b84b104eab34a742ae639fa76ad83ed55b355b47c3dc9ce3181fbe43746a020558666c2343898766e641e13af2b9f07#npm:17.0.2"]\
+            ["react", "npm:18.0.0"],\
+            ["react-dom", "virtual:bd1a5ffd325991a565fab1fd9cf9c4395b84b104eab34a742ae639fa76ad83ed55b355b47c3dc9ce3181fbe43746a020558666c2343898766e641e13af2b9f07#npm:18.0.0"]\
           ],\
           "packagePeers": [\
             "@types/react-dom",\
@@ -13648,7 +13648,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@urql/core", null],\
             ["immer", null],\
             ["optics-ts", null],\
-            ["react", "npm:17.0.2"],\
+            ["react", "npm:18.0.0"],\
             ["react-query", null],\
             ["valtio", null],\
             ["wonka", null],\
@@ -17170,12 +17170,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["react", [\
-        ["npm:17.0.2", {\
-          "packageLocation": "./.yarn/cache/react-npm-17.0.2-99ba37d931-b254cc17ce.zip/node_modules/react/",\
+        ["npm:18.0.0", {\
+          "packageLocation": "./.yarn/cache/react-npm-18.0.0-fdbcb4c477-293020b965.zip/node_modules/react/",\
           "packageDependencies": [\
-            ["react", "npm:17.0.2"],\
-            ["loose-envify", "npm:1.4.0"],\
-            ["object-assign", "npm:4.1.1"]\
+            ["react", "npm:18.0.0"],\
+            ["loose-envify", "npm:1.4.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -17229,22 +17228,21 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["react-dom", [\
-        ["npm:17.0.2", {\
-          "packageLocation": "./.yarn/cache/react-dom-npm-17.0.2-f551215af1-1c1eaa3bca.zip/node_modules/react-dom/",\
+        ["npm:18.0.0", {\
+          "packageLocation": "./.yarn/cache/react-dom-npm-18.0.0-d6a12fba32-dd0ba9f2f3.zip/node_modules/react-dom/",\
           "packageDependencies": [\
-            ["react-dom", "npm:17.0.2"]\
+            ["react-dom", "npm:18.0.0"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:bd1a5ffd325991a565fab1fd9cf9c4395b84b104eab34a742ae639fa76ad83ed55b355b47c3dc9ce3181fbe43746a020558666c2343898766e641e13af2b9f07#npm:17.0.2", {\
-          "packageLocation": "./.yarn/__virtual__/react-dom-virtual-b7c610be85/0/cache/react-dom-npm-17.0.2-f551215af1-1c1eaa3bca.zip/node_modules/react-dom/",\
+        ["virtual:bd1a5ffd325991a565fab1fd9cf9c4395b84b104eab34a742ae639fa76ad83ed55b355b47c3dc9ce3181fbe43746a020558666c2343898766e641e13af2b9f07#npm:18.0.0", {\
+          "packageLocation": "./.yarn/__virtual__/react-dom-virtual-e54c433a41/0/cache/react-dom-npm-18.0.0-d6a12fba32-dd0ba9f2f3.zip/node_modules/react-dom/",\
           "packageDependencies": [\
-            ["react-dom", "virtual:bd1a5ffd325991a565fab1fd9cf9c4395b84b104eab34a742ae639fa76ad83ed55b355b47c3dc9ce3181fbe43746a020558666c2343898766e641e13af2b9f07#npm:17.0.2"],\
+            ["react-dom", "virtual:bd1a5ffd325991a565fab1fd9cf9c4395b84b104eab34a742ae639fa76ad83ed55b355b47c3dc9ce3181fbe43746a020558666c2343898766e641e13af2b9f07#npm:18.0.0"],\
             ["@types/react", "npm:17.0.40"],\
             ["loose-envify", "npm:1.4.0"],\
-            ["object-assign", "npm:4.1.1"],\
-            ["react", "npm:17.0.2"],\
-            ["scheduler", "npm:0.20.2"]\
+            ["react", "npm:18.0.0"],\
+            ["scheduler", "npm:0.21.0"]\
           ],\
           "packagePeers": [\
             "@types/react",\
@@ -17345,7 +17343,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["postcss-preset-env", "npm:6.7.0"],\
             ["postcss-safe-parser", "npm:5.0.2"],\
             ["prompts", "npm:2.4.0"],\
-            ["react", "npm:17.0.2"],\
+            ["react", "npm:18.0.0"],\
             ["react-app-polyfill", "npm:2.0.0"],\
             ["react-dev-utils", "npm:11.0.4"],\
             ["react-refresh", "npm:0.8.3"],\
@@ -18089,12 +18087,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["scheduler", [\
-        ["npm:0.20.2", {\
-          "packageLocation": "./.yarn/cache/scheduler-npm-0.20.2-90beaecfba-c4b35cf967.zip/node_modules/scheduler/",\
+        ["npm:0.21.0", {\
+          "packageLocation": "./.yarn/cache/scheduler-npm-0.21.0-9a906f4833-4f82850760.zip/node_modules/scheduler/",\
           "packageDependencies": [\
-            ["scheduler", "npm:0.20.2"],\
-            ["loose-envify", "npm:1.4.0"],\
-            ["object-assign", "npm:4.1.1"]\
+            ["scheduler", "npm:0.21.0"],\
+            ["loose-envify", "npm:1.4.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -19101,8 +19098,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["babel-plugin-styled-components", "virtual:caf707e6f3bde05a05906b0262b503f90fcdbb48a0bafeb5cbceccac2a49a2543c50cead35bc6551ac598331d75024382c338f9a02fa3d77bb8e3b9a4b0c15dd#npm:2.0.6"],\
             ["css-to-react-native", "npm:3.0.0"],\
             ["hoist-non-react-statics", "npm:3.3.2"],\
-            ["react", "npm:17.0.2"],\
-            ["react-dom", "virtual:bd1a5ffd325991a565fab1fd9cf9c4395b84b104eab34a742ae639fa76ad83ed55b355b47c3dc9ce3181fbe43746a020558666c2343898766e641e13af2b9f07#npm:17.0.2"],\
+            ["react", "npm:18.0.0"],\
+            ["react-dom", "virtual:bd1a5ffd325991a565fab1fd9cf9c4395b84b104eab34a742ae639fa76ad83ed55b355b47c3dc9ce3181fbe43746a020558666c2343898766e641e13af2b9f07#npm:18.0.0"],\
             ["react-is", "npm:17.0.2"],\
             ["shallowequal", "npm:1.1.0"],\
             ["supports-color", "npm:5.5.0"]\
@@ -21074,8 +21071,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-react-hooks", "virtual:bd1a5ffd325991a565fab1fd9cf9c4395b84b104eab34a742ae639fa76ad83ed55b355b47c3dc9ce3181fbe43746a020558666c2343898766e641e13af2b9f07#npm:4.3.0"],\
             ["jotai", "virtual:bd1a5ffd325991a565fab1fd9cf9c4395b84b104eab34a742ae639fa76ad83ed55b355b47c3dc9ce3181fbe43746a020558666c2343898766e641e13af2b9f07#npm:1.6.1"],\
             ["prettier", "npm:2.5.1"],\
-            ["react", "npm:17.0.2"],\
-            ["react-dom", "virtual:bd1a5ffd325991a565fab1fd9cf9c4395b84b104eab34a742ae639fa76ad83ed55b355b47c3dc9ce3181fbe43746a020558666c2343898766e641e13af2b9f07#npm:17.0.2"],\
+            ["react", "npm:18.0.0"],\
+            ["react-dom", "virtual:bd1a5ffd325991a565fab1fd9cf9c4395b84b104eab34a742ae639fa76ad83ed55b355b47c3dc9ce3181fbe43746a020558666c2343898766e641e13af2b9f07#npm:18.0.0"],\
             ["react-scripts", "virtual:bd1a5ffd325991a565fab1fd9cf9c4395b84b104eab34a742ae639fa76ad83ed55b355b47c3dc9ce3181fbe43746a020558666c2343898766e641e13af2b9f07#npm:4.0.3"],\
             ["styled-components", "virtual:bd1a5ffd325991a565fab1fd9cf9c4395b84b104eab34a742ae639fa76ad83ed55b355b47c3dc9ce3181fbe43746a020558666c2343898766e641e13af2b9f07#npm:5.3.3"],\
             ["styled-normalize", "virtual:bd1a5ffd325991a565fab1fd9cf9c4395b84b104eab34a742ae639fa76ad83ed55b355b47c3dc9ce3181fbe43746a020558666c2343898766e641e13af2b9f07#npm:8.0.7"],\
